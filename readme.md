@@ -1,4 +1,4 @@
-# RestAPI for Creating QR Codes
+# IS601 - Homework 9 - FastAPI/RestAPI, fixing application errors.
 
 For this assignment I want you to go over the videos and I've created a X number of errors in the code that you will have to find and fix them.  You should keep running the tests and read the error and try to understand what it mean.  The purpose of this assignment is to get you accustomed to running the project and following the steps that the program uses to process requests.
 
